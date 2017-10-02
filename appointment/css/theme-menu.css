@@ -6,7 +6,7 @@
 * http://www.webriti.com/demo/wp/appointment
 */
 
-/* Menu Section css---------------------------------------------------------------------------------------------------- */ 
+/* Menu Section css---------------------------------------------------------------------------------------------------- */
 .navbar-default {
 	background-color: transparent;
 	border-color: #e7e7e7;
@@ -73,7 +73,7 @@
 }
 .navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
-	background-color: #ffffff;
+	background-color: #f1841c;
 }
 .navbar .navbar-nav > li {
     margin-right: 0px;
@@ -81,7 +81,7 @@
 }
 .navbar-default .navbar-nav > li > a {
 	color: #1b1b1b;
-	font-family: 'Open Sans';
+	font-family: 'Arial';
 	font-weight:600;
 	font-size: 14px;
 	letter-spacing: 0.5px;
@@ -96,7 +96,7 @@
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 .navbar-default .navbar-nav .open .dropdown-menu > li > a { background: transparent !important; color: #1b1b1b !important; }
-.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover { background: transparent !important; } 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover { background: transparent !important; }
 }
 @media only screen and (min-width: 200px) and (max-width: 480px) {
 .navbar-default .navbar-nav .open .dropdown-menu > li > a { background: transparent !important; color: #1b1b1b !important; }
