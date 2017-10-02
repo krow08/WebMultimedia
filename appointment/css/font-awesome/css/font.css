@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "MyriadBold";
+  src: url("../fonts/Myriad Bold.ttf");
+  src: url("../fonts/asap/Myriad Bold.ttf") format("embedded-opentype"), url("../fonts/Myriad Bold.ttf") format("ttf"), url("../fonts/Myriad Bold.ttf") format("truetype"), url("../fonts/Myriad Bold.ttf") format("svg"); }
+
+@font-face {
+  font-family: "MyriadRoman";
+  src: url("../fonts/asap/Myriad Roman.ttf");
+  src: url("../fonts/asap/Myriad Roman.ttf") format("embedded-opentype"), url("../fonts/asap/Myriad Roman.ttf") format("ttf"), url("../fonts/Myriad Roman.ttf") format("truetype"), url("../fonts/Myriad Roman.ttf") format("svg"); }
+
+@font-face {
+  font-family: "WarnocPro";
+  src: url("../fonts/Warnock Pro Subh.ttf");
+  src: url("../fonts/Warnock Pro Subh.ttf") format("embedded-opentype"), url("../fonts/Warnock Pro Subh.ttf") format("ttf"), url("../fonts/Warnock Pro Subh.ttf") format("truetype"), url("../fonts/Warnock Pro Subh.ttf") format("svg"); }
+
+}
